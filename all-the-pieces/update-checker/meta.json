@@ -2,6 +2,15 @@
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
- 
+    {
+        "id": "0.0.1",
+        "releasedAt": 1731484569969,
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://modrinth.com/modpack/all-the-pieces",
+            }
+        },
+        "updateType": "minor"
+    }
   ]
 }
