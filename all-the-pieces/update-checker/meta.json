@@ -4,16 +4,38 @@
   "versions": [
     {
       "id": "0.0.1",
-      "releasedAt": 1731484569969,
+      "releasedAt": 1731645136410,
       "updateType": "minor",
       "promotions": {
         "downloads": {
           "modrinth": "https://modrinth.com/modpack/all-the-pieces"
         }
-      },
+      }
+    },
+    {
       "id": "0.0.2a",
       "releasedAt": 1731484563716,
       "updateType": "major",
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/all-the-pieces"
+        }
+      }
+    },
+    {
+      "id": "0.0.3a",
+      "releasedAt": 1731565800000,
+      "updateType": "minor",
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/all-the-pieces"
+        }
+      }
+    },
+    {
+      "id": "0.0.4a",
+      "releasedAt": 1731645136410,
+      "updateType": "minor",
       "promotions": {
         "downloads": {
           "modrinth": "https://modrinth.com/modpack/all-the-pieces"
