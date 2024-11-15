@@ -1,0 +1,16 @@
+Added:
+- Advanced Backups
+- CraftPresence
+- Inventory Profiles Next
+
+Removed:
+
+
+Updated:
+- Relics: Artifacts Compat
+
+
+Configuration Tweaks:
+- Added default options.
+- Tweaked default minimap settings.
+- Added chest tag recipes.
